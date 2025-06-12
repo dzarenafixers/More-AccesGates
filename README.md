@@ -218,8 +218,6 @@ ArmoryLevelTwo, Intercom, Opens MicroHID room.
 
 ScpOverride = 1024
 
-# Enjoy 
-
 Airlock = 57
 Represents the door inside LczAirlock with Interactables.Interobjects.AirlockController component.
 
@@ -228,5 +226,7 @@ Represents the New Gate where Scp173 spawn in the Hcz049.
 
 EscapeFinal = 59
 Represents the ESCAPE_FINAL door.
+
+# Enjoy 
 
     
