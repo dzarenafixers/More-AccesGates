@@ -9,7 +9,7 @@
   ## Wher put the dll file :
 ### go to : 
 Main server files / .config / Exiled / Plugins / put
-## Doors list for add : Exiled places : ! just add the name door not nember !
+## Doors list for add : Exiled places : ! just add the name door not number !
 
 UnknownDoor = 0
 Represents an unknown door.
